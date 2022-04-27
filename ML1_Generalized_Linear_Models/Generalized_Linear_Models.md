@@ -2,9 +2,9 @@
 ---
 ## 1 线性回归（LR）
 ## 2 梯度下降（GD）
-- GD
+- BGD
 - SGD
-- Mini-batch
+- Mini-batch GD
 ## 3 正则化线性模型（RLM）
 - L1，L2，弹性网络，Early Stopping
 ## 4 逻辑回归
